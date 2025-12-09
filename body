@@ -1,0 +1,4 @@
+<div class="flashcard" onclick="this.classList.toggle('flip')">
+    <div class="front">Quem inventou a Web?</div>
+    <div class="back">Tim Berners-Lee</div>
+</div>
